@@ -1,0 +1,7 @@
+*.pyc
+htmlcov
+.coverage
+coverage.xml
+.oksanaproject_dev.env
+node_modules
+ui/tests/coverage
